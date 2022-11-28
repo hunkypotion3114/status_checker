@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    min-width: 100vw;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 30px;
+}
+
+p{
+    display: inline;
+}
+
+.head{
+    margin-bottom: 50px;
+}
